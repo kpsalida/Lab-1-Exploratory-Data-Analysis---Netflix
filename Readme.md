@@ -11,13 +11,13 @@ Project associated with Big Blue Data Science Bootcamp - April 2024. Duration: 1
 
 # Project Organization
 
-├── **README.md**               <- The top-level README for navigating this project
+├── **README.md**                   <- The top-level README for navigating this project
 
-├── **data**                    <- The original data from Kaggle sliced for yrs 2016 - 2021 for LA
+├── **data**                        <- The original data from Kaggle sliced for yrs 2016 - 2021 for LA
 
-├──**exloration**               <- Jupyter notebooks with Data Transformations and manipulation
+├──**notebook**                     <- Jupyter notebooks with Data Transformations and manipulation
 
-├── **analysis**                <- Presentation with findings
+├── **presentation**                <- Presentation with findings
 
 
 
