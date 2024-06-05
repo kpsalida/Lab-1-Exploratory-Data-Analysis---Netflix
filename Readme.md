@@ -26,7 +26,7 @@ Project associated with Big Blue Data Science Bootcamp - April 2024. Duration: 1
 
 ├── Katerina Psallida 
 
-└── Clelia Chelmi
+└── Clelia Chelmi 
 
 └── Lilly Kolliniati
 
